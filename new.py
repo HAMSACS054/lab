@@ -1,2 +1,1 @@
 print("happy")
-print("sad")
